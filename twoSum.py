@@ -1,3 +1,4 @@
+
 '''
 Brute Force method
 class Solution:
